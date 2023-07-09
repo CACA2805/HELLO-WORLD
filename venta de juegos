@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Venta de Videojuegos tesling</title>
+</head>
+<body>
+  <header>
+    <h1>TesLing</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Inicio</a></li>
+      <li><a href="file:///C:/Users/astri/OneDrive/Desktop/Catalogo%20de%20juegos.index.html">Catálogo</a></li>
+      <li><a href="#">Carrito de Compras</a></li>
+      <li><a href="#">Contacto</a></li>
+    </ul>
+  </nav>
+
+  <section>
+    <h2>Bienvenido a nuestra tienda de videojuegos</h2>
+    <p>Explora nuestro catálogo y encuentra los mejores videojuegos para ti.</p>
+  </section>
+
+  <section>
+    <h2>Catálogo de videojuegos Recomendados Para Ti</h2>
+    <ul>
+      <li>
+        <h3>Read Dead Redemption 2</h3>
+        <img src="C:\Users\astri\Downloads\red dead 2.jpg"
+                  width="230"
+                  height="165">
+        <p>Red Dead Redemption 2 es un videojuego de acción-aventura western basado en el drama. Un juego bastante conocido también por sus cantidades de detalles realistas en un mundo abierto y en perspectiva</p>
+
+        <button>Añadir al carrito</button>
+      </li>
+      <li>
+        <h3>Marvel´s Spider-man Remastered</h3>
+        <img src="C:\Users\astri\Downloads\spiderman.jpg"
+                   width="155"
+                   height="220">
+        <p>En Marvel's Spider-Man Remasterizado, nos encontramos con un Peter Parker experimentado en luchar contra el crimen organizado en la ciudad de Nueva York. Al mismo tiempo, se esfuerza por mantener el equilibrio entre su caótica vida personal y su carrera mientras carga con el peso de proteger el destino de la Nueva York de Marvel.</p>
+        <button>Añadir al carrito</button>
+      </li>
+      <!-- Agrega más videojuegos aquí -->
+    </ul>
+  </section>
+
+  <footer>
+    <p>Derechos de autor &copy; 2023 - Tesling inc</p>
+  </footer>
+</body>
+</html>
